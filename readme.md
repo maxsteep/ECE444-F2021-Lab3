@@ -1,5 +1,34 @@
-#Maxim Stepanov 
-#This repo is a clone of the https://github.com/nelaturuk/education_pathways repository
+# Maxim Stepanov
+## This repo is a clone of the https://github.com/nelaturuk/education_pathways repository
+
+# Feedback on the CARTE Education Pathways system
+
+## Functional
+The most glaring issue with the functionality of the system is the almost arbitrary decision to block/filter the results of the search by the course year.
+ I was truly baffled when the initial search for “engineering” presented me with a list of less than ten courses, mostly belonging to the Faculty of Music – the liming factor was the ‘course year’ being set to zero.
+ There is no option to set the system to display courses matching all the ‘course year’ entries. Many students, including myself, have frequently mixed up the year-designated and the year-taken for the courses we have taken. The necessity to keep switching between the ‘course year’ selection makes it challenging to actually compare the courses offered.
+
+I would suggest at the very least augmenting the system with the ability to display all the courses matching all the ‘course year’ entries.
+
+
+## Non-functional
+Optimization of a software product for usability in no way, shape, or form implies robbing the user interface of any semblance of aesthetics, and/or design.
+ Interface feels glued to the borders of the screen, static, and lacking any logical optimization for end user experience.
+ Table entries are unaligned, column names are offset and unjustified in relation to the entries, and the utter lack of colour-coding and contextual design cues renders the experience unnecessarily unintuitive. 
+
+ At the very least using aligned justification for the tables, and using dynamic search bars would have somewhat improved the currently abysmal user experience. 
+ Furthermore, colour-coding different elements; altering the background colours of the results list with subtle shades aiding visual grouping of the entries; and selection highlighting would all improve the end user experience and would have added to the usability of the application. 
+
+# Screenshots of the four activities
+
+![activity1Proof](https://github.com/maxsteep/ECE444-F2021-Lab3/blob/main/Activity1.png?raw=true)
+
+![activity2Proof](https://github.com/maxsteep/ECE444-F2021-Lab3/blob/main/Activity2.png?raw=true)
+
+![activity3Proof](https://github.com/maxsteep/ECE444-F2021-Lab3/blob/main/Activity3.png?raw=true)
+
+![activity4Proof](https://github.com/maxsteep/ECE444-F2021-Lab3/blob/main/Activity4.png?raw=true)
+
 # CARTE Education Pathways
 
 ## Description
